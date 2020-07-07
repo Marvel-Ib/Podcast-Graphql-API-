@@ -4,6 +4,7 @@
 
 ## About
 A simple Graphql API that allows you to query and mutate Podcast details.
+Built using  Node.js and the  Apollo-Server library, deployed it on Heroku.
 
 ## Tech Stack
 ExpressJS --- MongoDB Atlas --- Mongoose --- Apollo-Server
