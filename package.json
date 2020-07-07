@@ -1,0 +1,24 @@
+{
+  "name": "podcast-graphql-api-",
+  "version": "1.0.0",
+  "description": "A simple Graphql API will allow CRUD operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marvel-Ib/Podcast-Graphql-API-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marvel-Ib/Podcast-Graphql-API-/issues"
+  },
+  "homepage": "https://github.com/Marvel-Ib/Podcast-Graphql-API-#readme",
+  "dependencies": {
+    "apollo-server": "^2.15.1",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.9.22"
+  }
+}
