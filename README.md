@@ -5,7 +5,7 @@
 ## About
 A simple Graphql API that allows you to query and mutate Podcast details.
 
-## It utilizes
+## Tech Stack
 ExpressJS --- MongoDB Atlas --- Mongoose --- Apollo-Server
 
 ### Schema 
@@ -51,12 +51,12 @@ ExpressJS --- MongoDB Atlas --- Mongoose --- Apollo-Server
 ## Sample Query and Mutations
 
 ####query
-<img src="demo/front.png">
+<img src="demo/query.png">
 #### create
-<img src="demo/front.png">
+<img src="demo/create.png">
 
 #### update
-<img src="demo/front.png">
+<img src="demo/update.png">
 
 
 
