@@ -50,12 +50,12 @@ ExpressJS --- MongoDB Atlas --- Mongoose --- Apollo-Server
     
 ## Sample Query and Mutations
 
-#### query
+####  query
 <img src="demo/query.png">
-#### create
+####  create
 <img src="demo/create.png">
 
-#### update
+####  update
 <img src="demo/update.png">
 
 
